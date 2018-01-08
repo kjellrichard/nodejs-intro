@@ -1,0 +1,52 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "server1",
+            "program": "${workspaceFolder}/server1.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "server2",
+            "program": "${workspaceFolder}/server2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "sync",
+            "program": "${workspaceFolder}/sync.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "promise",
+            "program": "${workspaceFolder}/promise.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "callback",
+            "program": "${workspaceFolder}/callback.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "noimports",
+            "program": "${workspaceFolder}/noimports.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "imports",
+            "program": "${workspaceFolder}/imports/index.js"
+        }
+
+    ]
+}
