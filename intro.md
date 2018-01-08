@@ -7,11 +7,12 @@ Hva er nodejs?
 https://nodejs.org/en/about/
 
 Hvorfor nodejs?
-Skalerbart
-Lettvekt
-Kjapt
-Samme språk på server som på client
-En mengde tilgjengelige moduler klare til bruk
+- Skalerbart
+- Lettvekt
+- Kjapt
+- Samme språk på server som på client
+- NPM: En mengde tilgjengelige moduler klare til bruk
 
 Hvorfor ikke nodejs
-ikke kompilert
+- ikke kompilert
+- kan bli uoversiktlig ved misbruk av NPM
